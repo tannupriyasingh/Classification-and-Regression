@@ -2,8 +2,8 @@
 
 Below are the problems and their statement:
 
-![img](/images/1.png)
-![img](/images/2.png)
-![img](/images/3.png)
-![img](/images/4.png)
+![img](/1.png)
+![img](/2.png)
+![img](/3.png)
+![img](/4.png)
 
